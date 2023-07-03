@@ -1,0 +1,23 @@
+{
+    "name": "selbouzidi/iim-td2",
+    "description": "A beautiful domo package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iim\\Td2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SamirElbouzidi",
+            "email": "96955744+SamirElbouzidi@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}
